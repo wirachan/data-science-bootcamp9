@@ -2,7 +2,7 @@
 
 I learn a lot of stuff related to data science skills. This bootcamp has 10 sprints as follow.
 
-## First 
+## First part of the 
 - Intro to data science
 - Spreadsheets
 - Database (SQL)
